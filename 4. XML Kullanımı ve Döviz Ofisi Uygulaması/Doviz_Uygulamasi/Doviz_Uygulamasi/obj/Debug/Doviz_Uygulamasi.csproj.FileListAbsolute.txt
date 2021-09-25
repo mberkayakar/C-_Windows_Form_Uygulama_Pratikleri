@@ -1,0 +1,10 @@
+C:\Users\Muhammed Berkay AKAR\Desktop\C# İle 25 Derste 25 Uygulamalı Proje\4. XML Kullanımı ve Döviz Ofisi Uygulaması\Doviz_Uygulamasi\Doviz_Uygulamasi\bin\Debug\Doviz_Uygulamasi.exe.config
+C:\Users\Muhammed Berkay AKAR\Desktop\C# İle 25 Derste 25 Uygulamalı Proje\4. XML Kullanımı ve Döviz Ofisi Uygulaması\Doviz_Uygulamasi\Doviz_Uygulamasi\bin\Debug\Doviz_Uygulamasi.exe
+C:\Users\Muhammed Berkay AKAR\Desktop\C# İle 25 Derste 25 Uygulamalı Proje\4. XML Kullanımı ve Döviz Ofisi Uygulaması\Doviz_Uygulamasi\Doviz_Uygulamasi\bin\Debug\Doviz_Uygulamasi.pdb
+C:\Users\Muhammed Berkay AKAR\Desktop\C# İle 25 Derste 25 Uygulamalı Proje\4. XML Kullanımı ve Döviz Ofisi Uygulaması\Doviz_Uygulamasi\Doviz_Uygulamasi\obj\Debug\Doviz_Uygulamasi.csproj.AssemblyReference.cache
+C:\Users\Muhammed Berkay AKAR\Desktop\C# İle 25 Derste 25 Uygulamalı Proje\4. XML Kullanımı ve Döviz Ofisi Uygulaması\Doviz_Uygulamasi\Doviz_Uygulamasi\obj\Debug\Doviz_Uygulamasi.Form1.resources
+C:\Users\Muhammed Berkay AKAR\Desktop\C# İle 25 Derste 25 Uygulamalı Proje\4. XML Kullanımı ve Döviz Ofisi Uygulaması\Doviz_Uygulamasi\Doviz_Uygulamasi\obj\Debug\Doviz_Uygulamasi.Properties.Resources.resources
+C:\Users\Muhammed Berkay AKAR\Desktop\C# İle 25 Derste 25 Uygulamalı Proje\4. XML Kullanımı ve Döviz Ofisi Uygulaması\Doviz_Uygulamasi\Doviz_Uygulamasi\obj\Debug\Doviz_Uygulamasi.csproj.GenerateResource.cache
+C:\Users\Muhammed Berkay AKAR\Desktop\C# İle 25 Derste 25 Uygulamalı Proje\4. XML Kullanımı ve Döviz Ofisi Uygulaması\Doviz_Uygulamasi\Doviz_Uygulamasi\obj\Debug\Doviz_Uygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\Muhammed Berkay AKAR\Desktop\C# İle 25 Derste 25 Uygulamalı Proje\4. XML Kullanımı ve Döviz Ofisi Uygulaması\Doviz_Uygulamasi\Doviz_Uygulamasi\obj\Debug\Doviz_Uygulamasi.exe
+C:\Users\Muhammed Berkay AKAR\Desktop\C# İle 25 Derste 25 Uygulamalı Proje\4. XML Kullanımı ve Döviz Ofisi Uygulaması\Doviz_Uygulamasi\Doviz_Uygulamasi\obj\Debug\Doviz_Uygulamasi.pdb
